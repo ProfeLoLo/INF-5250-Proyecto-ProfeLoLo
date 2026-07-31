@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Auth0.OidcClient.WinForms" Version="4.4.0" />
     <PackageReference Include="Devart.Data.MySql" Version="9.3.21" />
     <PackageReference Include="DocX" Version="4.0.25105.5786" />
     <PackageReference Include="EPPlus" Version="8.0.7" />
